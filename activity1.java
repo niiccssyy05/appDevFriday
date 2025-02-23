@@ -5,8 +5,6 @@ public class activity1 {
         // System.out.println("Your Full Name - Section");
 
         //EXAMPLE:
-        System.out.println("JEA MAE BARGASO - 2I");
-=======
 
         System.out.println("BENOYA, JHOVENSON D. - BSIT-2I");
 
@@ -20,6 +18,6 @@ public class activity1 {
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
 
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
-    }
+        System.out.println("JEA MAE BARGASO- BSIT-2I");
 }
-  
+}
