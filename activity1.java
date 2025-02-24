@@ -19,6 +19,8 @@ public class activity1 {
 
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
 
+        System.out.println("JAMES CALVIN O. DIONISIO - BSIT-2I");
+
 
 
     }
