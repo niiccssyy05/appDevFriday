@@ -20,7 +20,8 @@ public class activity1 {
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
 
 
+        System.out.println("YHAJJ F. MAGUSIB - BSIT-2I");
+
 
     }
 }
-  
