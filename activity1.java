@@ -23,6 +23,10 @@ public class Activity1 {
         System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
         System.out.println("LHEIAN V. SAREN - BSIT-2J");
 
+        System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
+        System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
+        System.out.println("MHEL ANDREA G. VALDEZ - BSIT-2I");
+
         System.out.println("JAY RYAN N. LIMBANG - BSIT-2J");
 
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
@@ -39,6 +43,7 @@ public class Activity1 {
         System.out.println("MARWIN R. CONDE - BSIT-2I");
 
         System.out.println("JAMES CALVIN O. DIONISIO - BSIT-2I");
+
 
 
 
