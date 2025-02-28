@@ -7,6 +7,7 @@ public class week4 {
         //lastname.display();
          
        Saren.display();
+	Maravill.display();
             
     }
 }
