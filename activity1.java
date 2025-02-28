@@ -1,10 +1,8 @@
-public class activity1 {
+public class Activity1 {
     public static void main(String[] args) {
-        System.out.println("List of Students:");
-        // Collaborators: Add your names below using the format:
-        // System.out.println("Your Full Name - Section");
+        System.out.println("Jarap");
    
-            System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
+        // Collaborators: (Clark Jerrymie C. Jarap - BSIT 2J);
+        // System.out.println("Buong Pangalan - SECTION");
     }
 }
-  
