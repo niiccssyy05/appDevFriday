@@ -26,6 +26,9 @@ public class Activity1 {
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
 
+
+        System.out.println("CHESLYN B. DE BELEN - BSIT 2I");
+
         System.out.println("JOAN B. BOBIS - BSIT-2I");
 
 
@@ -39,6 +42,7 @@ public class Activity1 {
     System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
     System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
     System.out.println("CANGMAONG, ANEGLOU J. - BSIT-2J");
+
 
 
 
