@@ -44,14 +44,14 @@ public class Activity1 {
 
         System.out.println("JAMES CALVIN O. DIONISIO - BSIT-2I");
 
+        System.out.println("YHAJJ F. MAGUSIB - BSIT-2I");
+
 
 
 
         System.out.println("CHESLYN B. DE BELEN - BSIT 2I");
 
         System.out.println("JOAN B. BOBIS - BSIT-2I");
-
-
 
           System.out.println("SHAINT LOUVIMAR SAPAYLA - BSIT-2I");
     System.out.println("BENOYA, JHOVENSON D. - BSIT-2I");
@@ -64,13 +64,6 @@ public class Activity1 {
     System.out.println("CANGMAONG, ANEGLOU J. - BSIT-2J");
 
 
-
-
-
-
-        System.out.printIn("JERWIN E. FABIAN - BSIT 2I")
+       System.out.printIn("JERWIN E. FABIAN - BSIT 2I")
     }
-}
-
-
-
+  )
