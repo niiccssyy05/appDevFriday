@@ -25,6 +25,7 @@ public class Activity1 {
 
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
+        System.out.println("ASHLEY GEGUIERA - BSIT-2I");
 
         System.out.println("JEA MAE BARGASO- BSIT-2I");
 
