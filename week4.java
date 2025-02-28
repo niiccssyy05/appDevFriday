@@ -27,9 +27,10 @@ public class week4 {
        Mapula.display();
 
        Villoso.display();
+       Mangaoang.display();
+       
 
-
-            
+        
 
 
     }
