@@ -5,8 +5,42 @@ public class week4 {
         // Call each student's method
         // More students will add their method calls here...
         //lastname.display();
+
          
        Salcedo.display();
             
+
+
+        Soriano.display();
+
+
+
+       Diaz.display();
+       
+
+      Conde.display();
+
+       
+
+
+         
+
+       Saren.display();
+
+	Maravill.display();
+
+       limbang.display();
+
+
+       Mapula.display();
+
+       Villoso.display();
+
+
+
+            
+
+
+
     }
 }
