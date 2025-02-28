@@ -37,6 +37,7 @@ public class week4 {
        Mapula.display();
 
        Villoso.display();
+       Candilada.display();
 
 
 
