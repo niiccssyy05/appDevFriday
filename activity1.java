@@ -3,7 +3,6 @@ public class Activity1 {
         System.out.println("List of Students:");
 
         System.out.println("MARGARET MAEGAN T. ARMIGER - BSIT-2J");
-
        
          System.out.println("DEL ROSARIO, JOSHUA CEDRICK P. - BSIT-2J");
 
@@ -31,6 +30,9 @@ public class Activity1 {
 
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
+
+        System.out.println("JESSA MAE SERVANDIL - BSIT 2I");
+
         System.out.println("LOVE JEANE M. CORDIVILLA - BSIT-2J");
 
         System.out.println("JOHN LOUIE M. SORIANO - BSIT-2J");
