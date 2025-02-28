@@ -6,11 +6,15 @@ public class week4 {
         // More students will add their method calls here...
         //lastname.display();
 
+        Soriano.display();
+
+
 
        Diaz.display();
        
 
       Conde.display();
+
        
 
 
