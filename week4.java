@@ -20,9 +20,14 @@ public class week4 {
 
          
 
+       Saren.display();
+       limbang.display();
+
+
        Mapula.display();
 
        Villoso.display();
+
 
             
 
