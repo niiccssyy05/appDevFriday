@@ -40,6 +40,8 @@ public class week4 {
 
             
 
+       Magusib.display();
+
 
 
     }
