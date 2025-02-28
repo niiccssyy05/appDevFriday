@@ -10,9 +10,14 @@ public class week4 {
        Diaz.display();
        
 
+      Conde.display();
+       
+
+
          
        Saren.display();
             
+
 
     }
 }
