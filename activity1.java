@@ -46,7 +46,7 @@ public class Activity1 {
 
         System.out.println("YHAJJ F. MAGUSIB - BSIT-2I");
 
-
+        System.out.println("ALLY FAYE C. ORACION - BSIT 2J");
 
 
         System.out.println("CHESLYN B. DE BELEN - BSIT 2I");
