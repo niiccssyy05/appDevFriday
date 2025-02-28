@@ -38,6 +38,8 @@ public class Activity1 {
 
         System.out.println("MARWIN R. CONDE - BSIT-2I");
 
+        System.out.println("JAMES CALVIN O. DIONISIO - BSIT-2I");
+
 
 
         System.out.println("CHESLYN B. DE BELEN - BSIT 2I");
