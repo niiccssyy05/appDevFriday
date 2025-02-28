@@ -31,6 +31,9 @@ public class Activity1 {
 
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
+
+        System.out.println("JOHN LOUIE M. SORIANO - BSIT-2J");
+
         System.out.println("CATHLYN M. ALAVA - BSIT-2I");
 
         System.out.println("JUSTINE APOLONIO - BSIT-2I");
@@ -52,6 +55,7 @@ public class Activity1 {
         System.out.println("CHESLYN B. DE BELEN - BSIT 2I");
 
         System.out.println("JOAN B. BOBIS - BSIT-2I");
+
 
           System.out.println("SHAINT LOUVIMAR SAPAYLA - BSIT-2I");
     System.out.println("BENOYA, JHOVENSON D. - BSIT-2I");
