@@ -2,6 +2,8 @@ public class Activity1 {
     public static void main(String[] args) {
         System.out.println("List of Students:");
 
+        System.out.println("MARGARET MAEGAN T. ARMIGER - BSIT-2J");
+
        
          System.out.println("DEL ROSARIO, JOSHUA CEDRICK P. - BSIT-2J");
 
@@ -34,6 +36,7 @@ public class Activity1 {
 
 
         System.out.println("MARWIN R. CONDE - BSIT-2I");
+
 
 
         System.out.println("CHESLYN B. DE BELEN - BSIT 2I");
