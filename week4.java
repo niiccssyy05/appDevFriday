@@ -6,7 +6,9 @@ public class week4 {
         // More students will add their method calls here...
         //lastname.display();
 
-         
+
+       Suga.display();
+
        Salcedo.display();
             
 
@@ -35,6 +37,7 @@ public class week4 {
        Mapula.display();
 
        Villoso.display();
+
 
 
 
