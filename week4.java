@@ -5,16 +5,21 @@ public class week4 {
         // Call each student's method
         // More students will add their method calls here...
         //lastname.display();
-<<<<<<< HEAD
+
+         
+       Sibulo.display();
+            
+
+
          
        Taer.display();
-=======
+
 
 
        Suga.display();
 
        Salcedo.display();
->>>>>>> 65de6b16587e27edbf975409f7776f9b5e7c26c6
+
             
 
 
@@ -53,6 +58,7 @@ public class week4 {
             
 
        Magusib.display();
+
 
 
 
