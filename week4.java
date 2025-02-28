@@ -27,7 +27,7 @@ public class week4 {
 
        Saren.display();
 
-	Maravill.display();
+	Maravilla.display();
 
        limbang.display();
 
