@@ -76,7 +76,7 @@ public class week4 {
 
        De Belen.display();
 
-
+       Oracion.display();
 
 
        Laput.display();
