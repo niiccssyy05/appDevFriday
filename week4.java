@@ -64,7 +64,8 @@ public class week4 {
        
 
        Candilada.display();
-
+       
+       Agustin.display();
 
 
         Bolando.display();
