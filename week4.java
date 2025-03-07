@@ -7,12 +7,20 @@ public class week4 {
         //lastname.display();
 
          
+       Jarap.display();
+            
+
+
+         
        Sibulo.display();
             
 
 
          
        Taer.display();
+
+       Benoya.display();
+       
 
 
 
@@ -31,7 +39,7 @@ public class week4 {
        
 
       Conde.display();
-
+      
        
 
 
@@ -49,19 +57,34 @@ public class week4 {
        Mapula.display();
 
        Villoso.display();
+
+       Mangaoang.display();
+       
+
        Candilada.display();
 
 
 
+       Laput.display();
 
 
-            
+        
 
        Magusib.display();
+
        Apolonio.display();
 
+       
+	   Servandil.display();
 
 
+     
+       Palermo.display();
+
+
+
+
+       Destajo.display();
 
     }
 }
