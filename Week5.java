@@ -17,6 +17,8 @@ public class Week5 {
 	Mapula.display();	      
         Conde.display();
 
+        Candilada.display();
+
         Maravilla.display();     	   
 <<<<<<< HEAD
 	Saren.display();
