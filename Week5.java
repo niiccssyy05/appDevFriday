@@ -4,5 +4,7 @@ public class Week5 {
 
         // Call each student's method
         Cruz.display(); // Add your method call here
+	
+	Maravilla.display();
     }
 }
