@@ -77,7 +77,7 @@ public class week4 {
        Palermo.display();
 
 
-
+       Destajo.display();
 
     }
 }
