@@ -6,6 +6,13 @@ public class week4 {
         // More students will add their method calls here...
         //lastname.display();
 
+        Tamayo.display();
+
+         
+       Jarap.display();
+            
+
+
          
        Sibulo.display();
             
@@ -13,6 +20,9 @@ public class week4 {
 
          
        Taer.display();
+
+       Benoya.display();
+       
 
 
 
@@ -31,7 +41,7 @@ public class week4 {
        
 
       Conde.display();
-
+      
        
 
 
@@ -49,20 +59,46 @@ public class week4 {
        Mapula.display();
 
        Villoso.display();
+
+       Mangaoang.display();
+       
+
        Candilada.display();
 
+       De Belen.display();
 
 
 
+       Laput.display();
 
-            
+
+        
 
        Magusib.display();
 
+
        Dionisio.display();
 
+       
 
 
+       Conde.display();
+
+
+       Apolonio.display();
+
+       
+	   Servandil.display();
+
+
+     
+       Palermo.display();
+
+
+
+
+
+       Destajo.display();
 
     }
 }
