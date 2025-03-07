@@ -20,10 +20,8 @@ public class Week5 {
         Candilada.display();
 
         Maravilla.display();     	   
-<<<<<<< HEAD
 	Saren.display();
->>>>>>> upstream
-=======
+
 	Saren.display();
 
         Maravilla.display();
@@ -33,10 +31,9 @@ public class Week5 {
         Benoya.display();
         Apolonio.display();
         Geguiera.display();
+        DeBelen.display();
      
 
 
-
->>>>>>> 30a14ab856349abbae4009fdb7fe441d3bd9bb77
     }
 }
