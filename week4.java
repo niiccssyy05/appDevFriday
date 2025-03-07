@@ -74,6 +74,8 @@ public class week4 {
        
 	   Servandil.display();
 
+       Palermo.display();
+
 
 
 
