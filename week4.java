@@ -39,7 +39,7 @@ public class week4 {
        
 
       Conde.display();
-
+      
        
 
 
@@ -74,7 +74,10 @@ public class week4 {
        
 	   Servandil.display();
 
+
+     
        Palermo.display();
+
 
 
        Destajo.display();
