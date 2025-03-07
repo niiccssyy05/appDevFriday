@@ -7,12 +7,8 @@ public class Week5 {
 		      
         Conde.display();
         Maravilla.display();        
-<<<<<<< HEAD
         Diaz.display();
-=======
         Benoya.display();
-        
->>>>>>> upstream
 
     }
 }
