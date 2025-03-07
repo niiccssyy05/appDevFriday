@@ -1,5 +1,11 @@
 public class Activity1 {
     public static void main(String[] args) {
+
+        System.out.println("Jarap");
+   
+        // Collaborators: (Clark Jerrymie C. Jarap - BSIT 2J);
+        // System.out.println("Buong Pangalan - SECTION");
+
       // Collaborators: Add your names below using the format:
       // System.out.println("Your Full Name - SECTION");
       // System.out.println("Your Full Name - Section");
@@ -67,3 +73,4 @@ public class Activity1 {
        System.out.printIn("JERWIN E. FABIAN - BSIT 2I")
     }
   )
+

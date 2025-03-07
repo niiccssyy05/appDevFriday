@@ -7,6 +7,11 @@ public class week4 {
         //lastname.display();
 
          
+       Jarap.display();
+            
+
+
+         
        Sibulo.display();
             
 
@@ -58,6 +63,7 @@ public class week4 {
             
 
        Magusib.display();
+
 
 
 
