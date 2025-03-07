@@ -7,36 +7,18 @@ public class Week5 {
         // Cruz.display(); 
         Taer.display();
         Diaz.display();
-
-
         Magusib.display();
-
         Palermo.display();
-
-        //Cruz.display();
-	Mapula.display();	      
+   	    Mapula.display();	      
         Conde.display();
-
         Candilada.display();
-
-        Maravilla.display();     	   
-<<<<<<< HEAD
-	Saren.display();
->>>>>>> upstream
-=======
-	Saren.display();
-
+    	  Saren.display();
         Maravilla.display();
         Servandil.display();        
-
-
         Benoya.display();
         Apolonio.display();
         Geguiera.display();
-     
         Bargaso.display();
 
-
->>>>>>> 30a14ab856349abbae4009fdb7fe441d3bd9bb77
     }
 }
