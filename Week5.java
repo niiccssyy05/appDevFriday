@@ -13,6 +13,8 @@ public class Week5 {
 	Mapula.display();	      
         Conde.display();
         Maravilla.display();        
+        Benoya.display();
+        
 
 >>>>>>> upstream
     }
