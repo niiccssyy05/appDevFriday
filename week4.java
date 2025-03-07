@@ -19,6 +19,9 @@ public class week4 {
          
        Taer.display();
 
+       Benoya.display();
+       
+
 
 
        Suga.display();
