@@ -72,6 +72,9 @@ public class week4 {
 
        Magusib.display();
 
+       
+
+
        Conde.display();
 
 
@@ -83,6 +86,7 @@ public class week4 {
 
      
        Palermo.display();
+
 
 
 
