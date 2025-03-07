@@ -13,7 +13,7 @@ public class Week5 {
 		      
         Conde.display();
         Maravilla.display();     	   
-	Saren.display():
+	Saren.display();
 >>>>>>> upstream
     }
 }
