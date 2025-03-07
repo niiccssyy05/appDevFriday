@@ -66,7 +66,11 @@ public class week4 {
        Candilada.display();
 
 
+
+        Bolando.display();
+
        Bobis.display();
+
 
 
        De Belen.display();
