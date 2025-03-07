@@ -28,7 +28,7 @@ public class Week4 {
         //Salcedo.display();
         //Saren.display();
         Servandil.display();
-        //Sibulo.display();
+        Sibulo.display();
         //Soriano.display();
         //Suga.display();
         Tamayo.display();
