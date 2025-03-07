@@ -18,7 +18,11 @@ public class Week5 {
         Conde.display();
 
         Maravilla.display();     	   
-	Saren.display():
+<<<<<<< HEAD
+	Saren.display();
+>>>>>>> upstream
+=======
+	Saren.display();
 
         Maravilla.display();
         Servandil.display();        
@@ -29,5 +33,6 @@ public class Week5 {
 
 
 
+>>>>>>> 30a14ab856349abbae4009fdb7fe441d3bd9bb77
     }
 }
