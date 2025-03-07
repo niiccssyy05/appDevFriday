@@ -71,12 +71,16 @@ public class week4 {
         
 
        Magusib.display();
+
+       Apolonio.display();
+
        
 	   Servandil.display();
 
 
      
        Palermo.display();
+
 
 
 
