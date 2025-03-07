@@ -65,6 +65,7 @@ public class week4 {
 
 
 
+       Laput.display();
 
 
         
