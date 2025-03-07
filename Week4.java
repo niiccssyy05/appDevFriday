@@ -10,10 +10,10 @@ public class Week4 {
         Bobis.display();
         Bolando.display();
         Candilada.display();
-        //Conde.display();
-        //DeBelen.display();
+        Conde.display();
+        DeBelen.display();
         Destajo.display();
-        //Diaz.display();
+        Diaz.display();
         Dionisio.display();
         Fabian.display();
         Jarap.display();
