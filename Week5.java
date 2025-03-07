@@ -13,7 +13,6 @@ public class Week5 {
 		      
         Conde.display();
         Maravilla.display();        
-
->>>>>>> upstream
+        Apolonio.display();
     }
 }
