@@ -7,6 +7,9 @@ public class Week5 {
         // Add your method below
         // Cruz.display(); 
         Diaz.display();
+
+        Magusib.display();
+
         
 =======
         //Cruz.display();
