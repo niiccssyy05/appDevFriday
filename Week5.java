@@ -5,6 +5,7 @@ public class Week5 {
         // Call each student's method
         // Add your method below
         // Cruz.display(); 
+        Diaz.display();
         
     }
 }
