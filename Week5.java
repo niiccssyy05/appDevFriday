@@ -5,14 +5,20 @@ public class Week5 {
         // Call each student's method
         // Add your method below
         // Cruz.display(); 
-        
         Diaz.display();
         Magusib.display();
 	    Mapula.display();	      
         Conde.display();
         Maravilla.display();     	   
-	    Saren.display():
-        Maravilla.display();        
-        Benoya.display();
+	Saren.display():
 
+        Maravilla.display();        
+
+
+        Benoya.display();
+        
+
+
+
+    }
 }
