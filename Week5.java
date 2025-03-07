@@ -10,7 +10,7 @@ public class Week5 {
 
         Magusib.display();
 
-        
+        Palermo.display();
 
         //Cruz.display();
 		      
