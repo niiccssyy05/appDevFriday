@@ -76,6 +76,9 @@ public class week4 {
 
        Magusib.display();
 
+
+       Valdez.display();
+
        Fabian.display();
 
        Alava.display();
@@ -97,6 +100,7 @@ public class week4 {
 
      
        Palermo.display();
+
 
 
 
