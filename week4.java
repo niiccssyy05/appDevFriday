@@ -65,6 +65,8 @@ public class week4 {
 
        Candilada.display();
 
+       De Belen.display();
+
 
 
        Laput.display();
