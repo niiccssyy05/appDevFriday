@@ -12,8 +12,8 @@ public class Week5 {
         //Cruz.display();
 		      
         Conde.display();
-        Maravilla.display();        
-
+        Maravilla.display();     	   
+	Saren.display():
 >>>>>>> upstream
     }
 }
