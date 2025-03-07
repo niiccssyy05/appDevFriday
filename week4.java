@@ -75,6 +75,7 @@ public class week4 {
         
 
        Magusib.display();
+       Alava.display();
 
 
        Dionisio.display();
