@@ -1,24 +1,25 @@
 public class Week5 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
-         System.out.println("WEEK 5\n");
+        System.out.println("WEEK 5\n");
+        
         // Call each student's method
         // Add your method below
-        // Cruz.display(); 
+        // Cruz.display();
         Taer.display();
         Diaz.display();
         Magusib.display();
         Palermo.display();
-   	    Mapula.display();	      
+        Mapula.display();
         Conde.display();
         Candilada.display();
-    	Saren.display();
+        Saren.display();
         Maravilla.display();
-        Servandil.display();        
+        Servandil.display();
         Benoya.display();
         Apolonio.display();
         Geguiera.display();
         Bargaso.display();
-
+        Jarap.display();  // <--- Dinagdag ko ito para sa method mo
     }
 }
