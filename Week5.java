@@ -18,8 +18,9 @@ public class Week5 {
         Benoya.display();
         Apolonio.display();
         Geguiera.display();
-        Bargaso.display();
 	Villoso.display();
+        Bargaso.display();
+	
 
     }
 }
