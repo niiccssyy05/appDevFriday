@@ -17,8 +17,9 @@ public class Week5 {
         Servandil.display();        
         Benoya.display();
         Apolonio.display();
+        Agustin.display();
         Geguiera.display();
         Bargaso.display();
-        Agustin.display();
+        
     }
 }
