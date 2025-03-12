@@ -19,6 +19,6 @@ public class Week5 {
         Apolonio.display();
         Geguiera.display();
         Bargaso.display();
-
+        Pablete.display();
     }
 }
