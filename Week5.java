@@ -18,6 +18,7 @@ public class Week5 {
         Benoya.display();
         Apolonio.display();
         Geguiera.display();
+	    Oracion.display();
         Bargaso.display();
 
     }
