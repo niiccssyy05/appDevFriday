@@ -24,6 +24,7 @@ public class Week5 {
         Bobis.display();
 	      Villoso.display();
         Bargaso.display();
+        Tamayo.display();
         Tupas.display();
         Piquero.display();
         Laput.display();
