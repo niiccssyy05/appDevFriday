@@ -1,4 +1,7 @@
+
+
 public class Mangaoang {
+
     public static void display() {
         int age = 20; 
         System.out.println("Hello! This is Mangaoang contributing to the project.");
@@ -6,3 +9,4 @@ public class Mangaoang {
         System.out.println("Next year, I will be: " + (age + 1));
     }
 }
+
