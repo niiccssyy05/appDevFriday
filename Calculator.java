@@ -18,7 +18,7 @@ public class Calculator {
     public static int modulus(int a, int b) {
         return a % b;
     }
-<<<<<<< HEAD
+
 
 
     // Group 3: Multiply (Members: De Belen, Magusib, M. Conde, Apolonio, Fabian, Servandil, Alava, Valdez, Briones, Destajo, Bargaso)
@@ -37,6 +37,12 @@ public static int div(int a, int b) {
     return a / b;
 }
 
-=======
->>>>>>> group5-modulus
+
+/* Group 6: Squared (Members: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, 
+Palermo, Repollo, Melida, Ondoy, Sapayla) */
+public static int square(int a) {
+    return a * a;
 }
+
+}  
+
