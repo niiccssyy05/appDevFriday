@@ -21,6 +21,7 @@ public class Week5 {
         Apolonio.display();
         Agustin.display();
         Geguiera.display();
+	    Oracion.display();
         Bobis.display();
 	      Villoso.display();
         Bargaso.display();
