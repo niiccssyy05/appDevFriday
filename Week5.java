@@ -13,19 +13,30 @@ public class Week5 {
     	Mapula.display();	      
         Conde.display();
         Candilada.display();
+
+
+        Maravilla.display();     	   
+	Saren.display();
+
+	Saren.display();
+
+
     	Saren.display();
+
         Maravilla.display();
         Servandil.display();        
         Benoya.display();
         Apolonio.display();
         Geguiera.display();
+
+        DeBelen.display();
+
         Bargaso.display();
 
         Destajo.display();
 
+
         Cangmaong.display();
 
 
-        
-    }
 }
