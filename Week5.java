@@ -28,11 +28,12 @@ public class Week5 {
         Apolonio.display();
         Agustin.display();
         Geguiera.display();
-	     Oracion.display();
+	      Oracion.display();
         Bobis.display();
 	      Villoso.display();
         Bargaso.display();
-        Jarap.display();  // <--- Dinagdag ko ito para sa method mo
+        Sapayla.display();
+        Jarap.display(); 
         Salcedo.display();
         Melida.display();
         Pablete.display();
