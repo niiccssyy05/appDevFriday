@@ -14,8 +14,7 @@ public class Calculator {
     }
 
 
-    // Group 3: Multiply (Members: De Belen, Magusib, M. Conde, Apolonio, Fabian, Servandil, 
-    // Alava, Valdez, Briones, Destajo, Bargaso)
+    // Group 3: Multiply (Members: De Belen, Magusib, M. Conde, Apolonio, Fabian, Servandil, Alava, Valdez, Briones, Destajo, Bargaso)
     public static int mul(int a, int b) {
         return a * b;
     }
