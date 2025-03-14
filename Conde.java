@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Conde {
     public static void display() {
         int age = 19; 
@@ -5,4 +6,10 @@ public class Conde {
         System.out.println("My current age is: " + age);
         System.out.println("Next year, I will be: " + (age + 1));
     }
+=======
+public class Conde{
+public static void display() {
+System.out.println("Hello1 This is Conde contributing to the project");
+}
+>>>>>>> upstream/main
 }
