@@ -20,4 +20,9 @@ public class Calculator {
         return a * b;
     }
 
-}    
+// Group 4: Divide (Members: Occiano, Sibulo, Del rosario, Armiger, Taer, Permejo, Mapula)
+public static int div(int a, int b) {
+    return a / b;
+}
+
+}
