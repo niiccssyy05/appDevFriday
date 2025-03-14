@@ -19,5 +19,8 @@ public class GroupWork {
                         " Saren, Bolando, Agustin, Eugenio, Oracion, Bobis, Geguiera, Dionisio) ) Are they equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
         System.out.println("Divide: " + Calculator.div(num1, num2));
         System.out.println("Group4 Occiano, Sibulo, Del rosario, Armiger, Taer, Permejo, Mapula");
+        System.out.println("Number Squared: " + Calculator.square(num1));
+        System.out.println("(Group 6: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, Palermo, Repollo, Melida, Ondoy, Sapayla)");
+    
     }
 }
