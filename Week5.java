@@ -46,12 +46,13 @@ public class Week5 {
         DeBelen.display();
         Almario.display();
         Alava.display();
-        Palalay.display();
+       //Palalay.display();
         Cordivilla.display();
         Soriano.display();
         Valdez.display();
         Mendez.display();
         Destajo.display();
         Cangmaong.display();
-
+    }
 }
+
