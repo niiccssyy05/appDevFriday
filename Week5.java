@@ -21,6 +21,11 @@ public class Week5 {
         Apolonio.display();
         Geguiera.display();
 
+	Villoso.display();
+        Bargaso.display();
+	
+
+
         DeBelen.display();
 
         Bargaso.display();
@@ -42,6 +47,7 @@ public class Week5 {
 
 
         Cangmaong.display();
+
 
 
 
