@@ -19,5 +19,11 @@ public class Calculator {
     public static int mul(int a, int b) {
         return a * b;
     }
+    
+    // Group 5: Modulus (Members: [Your Names])
+public static int modulus(int a, int b) {
+    return a % b;
+}
+
 
 }    
