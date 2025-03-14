@@ -24,6 +24,7 @@ public class Week5 {
         Bobis.display();
 	      Villoso.display();
         Bargaso.display();
+        Jimeno.display();
         Tamayo.display();
         Tupas.display();
         Piquero.display();
@@ -33,9 +34,10 @@ public class Week5 {
         Alava.display();
         Palalay.display();
         Cordivilla.display();
-         Soriano.display();
+        Soriano.display();
         Valdez.display();
         Mendez.display();
         Destajo.display();
         Cangmaong.display();
+
 }
