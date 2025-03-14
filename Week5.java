@@ -19,6 +19,7 @@ public class Week5 {
         Servandil.display();        
         Benoya.display();
         Apolonio.display();
+        Agustin.display();
         Geguiera.display();
 
         Bobis.display();
@@ -26,6 +27,10 @@ public class Week5 {
 
 	Villoso.display();
         Bargaso.display();
+
+        
+  
+
 	
 
 
@@ -51,6 +56,7 @@ public class Week5 {
 
 
         Cangmaong.display();
+
 
 
 
