@@ -24,6 +24,7 @@ public class Week5 {
         DeBelen.display();
 
         Bargaso.display();
+        Alava.display();
 
         Palalay.display();
 
