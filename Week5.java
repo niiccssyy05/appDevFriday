@@ -33,6 +33,7 @@ public class Week5 {
         DeBelen.display();
 
         Bargaso.display();
+        Mendez.display();
 
         Destajo.display();
 
