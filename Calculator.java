@@ -24,4 +24,10 @@ public static int div(int a, int b) {
     return a / b;
 }
 
+/* Group 6: Squared (Members: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, 
+Palermo, Repollo, Melida, Ondoy, Sapayla) */
+public static int square(int a) {
+    return a * a;
 }
+
+}  
