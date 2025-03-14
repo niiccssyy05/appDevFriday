@@ -4,12 +4,13 @@ public class Week5 {
          System.out.println("WEEK 5\n");
         // Call each student's method
         // Add your method below
-        // Cruz.display(); 
+        // Cruz.display();
+        Delrosario.display(); 
         Taer.display();
         Diaz.display();
         Magusib.display();
         Palermo.display();
-   	    Mapula.display();	      
+    	Mapula.display();	      
         Conde.display();
         Candilada.display();
     	Saren.display();
@@ -19,7 +20,11 @@ public class Week5 {
         Apolonio.display();
         Geguiera.display();
         Bargaso.display();
+
         Destajo.display();
+
+        Cangmaong.display();
+
 
         
     }
