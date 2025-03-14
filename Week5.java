@@ -32,6 +32,7 @@ public class Week5 {
         DeBelen.display();
 
         Bargaso.display();
+        Valdez.display();
 
 
         Mendez.display();
