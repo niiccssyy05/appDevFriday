@@ -7,6 +7,7 @@ public class Week5 {
         // Cruz.display();
         Delrosario.display(); 
         Taer.display();
+        Armiger.display();
         Diaz.display();
         Magusib.display();
         Palermo.display();
