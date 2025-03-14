@@ -15,59 +15,26 @@ public class Week5 {
         Conde.display();
         Candilada.display();
         Maravilla.display();     	   
-    	Saren.display();
+    	  Saren.display();
         Servandil.display();        
         Benoya.display();
         Apolonio.display();
         Agustin.display();
         Geguiera.display();
-
         Bobis.display();
-
-
-	Villoso.display();
+	      Villoso.display();
         Bargaso.display();
         Tupas.display();
-
         Piquero.display();
-        
-
         Laput.display();
-
-
-        
-  
-
-	
-
-
         DeBelen.display();
-
-
-        Bargaso.display();
+        Almario.display();
         Alava.display();
-
         Palalay.display();
-
         Cordivilla.display();
-        
-
-        Soriano.display();
-
+         Soriano.display();
         Valdez.display();
-
-
         Mendez.display();
-
         Destajo.display();
-
-
         Cangmaong.display();
-
-
-
-
-
-
-
 }
