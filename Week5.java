@@ -21,12 +21,16 @@ public class Week5 {
         Apolonio.display();
         Geguiera.display();
 
+        Bobis.display();
+
+
 	Villoso.display();
         Bargaso.display();
 	
 
 
         DeBelen.display();
+
 
         Bargaso.display();
         Alava.display();
