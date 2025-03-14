@@ -27,6 +27,8 @@ public class Week5 {
 
 	Villoso.display();
         Bargaso.display();
+        Laput.display();
+
 
         
   
