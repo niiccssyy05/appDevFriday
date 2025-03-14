@@ -19,7 +19,6 @@ public class Week5 {
         Maravilla.display();     	   
 	Saren.display();
 
-	Saren.display();
 
 
     	Saren.display();
@@ -33,12 +32,15 @@ public class Week5 {
         DeBelen.display();
 
         Bargaso.display();
+
+
         Mendez.display();
 
         Destajo.display();
 
 
         Cangmaong.display();
+
 
 
 }
