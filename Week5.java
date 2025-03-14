@@ -27,6 +27,7 @@ public class Week5 {
 
 	Villoso.display();
         Bargaso.display();
+        Tupas.display();
 
         Piquero.display();
         
