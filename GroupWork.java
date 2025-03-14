@@ -17,7 +17,7 @@ public class GroupWork {
         " Alava, Valdez, Briones, Destajo, Bargaso)) Multiply: " + Calculator.mul(num1, num2));  // Group 3's method
         System.out.println(" (GROUP 10 Candilada, Villoso, Maravilla," + 
                         " Saren, Bolando, Agustin, Eugenio, Oracion, Bobis, Geguiera, Dionisio) ) Are they equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
-
-
+        System.out.println("Divide: " + Calculator.div(num1, num2));
+        System.out.println("Group4 Occiano, Sibulo, Del rosario, Armiger, Taer, Permejo, Mapula");
     }
 }
