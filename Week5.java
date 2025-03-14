@@ -27,6 +27,10 @@ public class Week5 {
 
 	Villoso.display();
         Bargaso.display();
+
+        Piquero.display();
+        
+
         Laput.display();
 
 
@@ -58,6 +62,7 @@ public class Week5 {
 
 
         Cangmaong.display();
+
 
 
 
