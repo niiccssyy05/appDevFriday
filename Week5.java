@@ -24,6 +24,7 @@ public class Week5 {
         Bobis.display();
 	      Villoso.display();
         Bargaso.display();
+        Pablete.display();
         Jimeno.display();
         Tamayo.display();
         Tupas.display();
@@ -39,5 +40,6 @@ public class Week5 {
         Mendez.display();
         Destajo.display();
         Cangmaong.display();
+
 
 }
