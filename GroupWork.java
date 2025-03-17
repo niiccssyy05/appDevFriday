@@ -1,3 +1,4 @@
+// GroupWork.java
 import java.util.Scanner;
 public class GroupWork {
     public static void main(String[] args) {
@@ -27,13 +28,14 @@ public class GroupWork {
 
         System.out.println("(GROUP 1) Sum: " + Calculator.add(num1, num2));  // Group 1's method
         System.out.println("(GROUP 10) Are they equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
-        System.out.println("(GROUP 5) Remainder: " + Calculator.modulus(num1, num2));  // Group 5's method
+
 
         scanner.close(); // Close scanner to prevent resource leak
 
         System.out.println("Number Squared: " + Calculator.square(num1));
         System.out.println("(Group 6: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, Palermo, Repollo, Melida, Ondoy, Sapayla)");
-    
+        System.out.println(" (GROUP 2 - Soriano, Cordivilla, Laput, Piquero, Tupas, Limbang, Galgo)Subtraction: " + Calculator.subtract(num1, num2)); // Group 2's method
+
 
     }
 }
