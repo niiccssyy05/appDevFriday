@@ -26,10 +26,11 @@ public class Calculator {
         return a * b;
     }
     
-    // Group 5: Modulus (Members: [Your Names])
-public static int modulus(int a, int b) {
-    return a % b;
+// Group 2: Subtraction (Members: Soriano, Cordivilla, Laput, Tupas, Piquero, Limbang, Galgo)
+public static int subtract(int a, int b) {
+    return a - b;  
 }
+
 
 
 // Group 4: Divide (Members: Occiano, Sibulo, Del rosario, Armiger, Taer, Permejo, Mapula)
