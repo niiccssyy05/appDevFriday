@@ -3,6 +3,6 @@ public class Activity1 {
         System.out.println("List of Students:Tesalonica A. Surilla");
    
         // Collaborators: Add your names below using the format:
-        // System.out.println("Tesalonica A. Surilla - BSIT 2J");
+         System.out.println("Tesalonica A. Surilla - BSIT 2J");
     }
 }
